@@ -28,7 +28,7 @@ fghjhgcfghjk
     1. eceA
     2. eceB
 ## Unorderd List
-- eee
+- eee 
     * eeeA
     * eeeB
 - sam
@@ -36,3 +36,14 @@ fghjhgcfghjk
     + sam1
 - apssdc
 - kits
+## Code
+```python
+def fun():
+    print("hello kits eee")
+```
+```
+fun()
+```
+
+
+
