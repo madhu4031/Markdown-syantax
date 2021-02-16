@@ -53,4 +53,8 @@ fun()
 ## gmail link
 []()
 ## Inserting Images
-![pic](https://github.com/madhu4031/Markdown-syantax/blob/master/image.jpg)
+
+![image](https://github.com/madhu4031/Markdown-syantax/blob/main/README.md)
+
+
+
