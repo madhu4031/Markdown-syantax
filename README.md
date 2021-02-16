@@ -48,4 +48,8 @@ fun()
 
 ## Link
 [markdown](https://www.markdownguide.org/cheat-sheet/)
+## college website link
+[]()
+## gmail link
+[]()
 
